@@ -11,12 +11,12 @@ Class1.cs - класс book
 Файл для запуска \bin\Debug\netcoreapp3.1\MEPHI_TEST.exe
 
 Демонстрация программы представлена на изображениях ниже
-![img1](img1.jpg)
+![img1](img1.JPG)
 
-![img2](img2.jpg)
+![img2](img2.JPG)
 
-![img3](img3.jpg)
+![img3](img3.JPG)
 
-![img4](img4.jpg)
+![img4](img4.JPG)
 
-![img5](img5.jpg)
+![img5](img5.JPG)
